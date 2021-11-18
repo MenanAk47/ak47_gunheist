@@ -1,7 +1,9 @@
 fx_version 'adamant'
 game 'gta5'
-description 'Ak47 Gun Heist'
-version '1.0.0'
+name "ak47_gunheist"
+author "MenanAk47 (MenanAk47#3129)"
+description "MenanAk47 - Optimized Gun Heist"
+version "1.0"
 
 server_scripts {
 	'config.lua',
